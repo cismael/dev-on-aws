@@ -1,0 +1,7 @@
+.idea
+*.iws
+/*.iml
+node_modules
+.vscode
+log
+.DS_Store

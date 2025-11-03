@@ -20,7 +20,7 @@
     "@hapi/hapi": "20.1.5",
     "@hapi/inert": "6.0.4",
     "@hapi/vision": "6.1.0",
-    "bcryptjs": "2.4.3",
+    "bcryptjs": "3.0.3",
     "bootflat": "2.0.4",
     "fs-extra": "10.0.0",
     "handlebars": "4.7.7",
